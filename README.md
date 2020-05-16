@@ -10,4 +10,4 @@ Table tilt - right/left arrow,
 
 
 Gameplay
-https://youtu.be/SL7WCGvEnnk
+https://youtu.be/xUQhikYBShY
